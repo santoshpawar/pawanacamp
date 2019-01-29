@@ -1,7 +1,9 @@
 <?php 
 include_once 'include/header.php';
 ?>
-<body><div class="wrapper">
+<body>
+	<!-- Colorwale.in -->
+	<div class="wrapper">
 		<!--[if lte IE 9]>
 		<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade
 			your browser</a> to improve your experience and security.</p>
