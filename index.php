@@ -75,7 +75,8 @@ include_once 'include/header.php';
 		</section><!--/.about-us-->
 		<!--about-us end -->
 		<!--service start-->
-		<section id="service" class="service">
+		 src="assets/images/service/s3.png" alt="service-icon">
+							</div><!--/.service-im<section id="service" class="service">
 			<div class="container">
 				<div class="service-counter text-center">
 					<div class="col-md-4 col-sm-4">
@@ -109,8 +110,7 @@ include_once 'include/header.php';
 					<div class="col-md-4 col-sm-4">
 						<div class="single-service-box">
 							<div class="statistics-img">
-								<img src="assets/images/service/s3.png" alt="service-icon">
-							</div><!--/.service-img-->
+								<imgg-->
 							<div class="service-content">
 								<h2>
 									<a href="#">
@@ -1047,7 +1047,18 @@ Recreational camping is available at pawna lake. Most of these facilities includ
 <!--
 </div></div></div></div><div class="owl-nav disabled"><div class="owl-prev">prev</div><div class="owl-next">next</div></div><div class="owl-dots"><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div><!--/.testemonial-carousel-->
 </div><!--/.container-->
-</section><!--/.testimonial-->	
+</section>
+
+
+
+
+
+
+
+
+
+
+<!--/.testimonial-->	
 <!-- testemonial End -->
 <!--special-offer start-->
 <section id="spo" class="special-offer">
