@@ -1,5 +1,7 @@
 <?php 
 include_once 'include/header.php';
+include_once 'include/terms.php';
+
 ?>
 <body>
 	<!-- Colorwale.in -->
