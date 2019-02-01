@@ -1,10 +1,11 @@
-		<footer class="footer-copyright">
+<footer class="footer-copyright">
 			<div>
 				<a href="https://wa.me/send?phone=917020638029&amp;text= I'm contacting you by clicking on the WhatsApp button of your website: http://www.pawanacamps.com. My name is"><img class="whatsapp" src="assets/images/home/whatsapp.png" alt="Whatsapp Chat"></img></a>
 			</div>
 			<div class="container">
 				<div class="footer-content">
 					<div class="row">
+
 						<div class="col-sm-3">
 							<div class="single-footer-item">
 								<div class="footer-logo">
@@ -17,6 +18,7 @@
 								</div>
 							</div><!--/.single-footer-item-->
 						</div><!--/.col-->
+
 						<div class="col-sm-3">
 							<div class="single-footer-item">
 								<h2>link</h2>
@@ -30,7 +32,9 @@
 									<p class="scroll-7"><a href="#subs">Contacts</a></p>
 								</div><!--/.single-footer-txt-->
 							</div><!--/.single-footer-item-->
+
 						</div><!--/.col-->
+
 						<div class="col-sm-3">
 							<div class="single-footer-item">
 								<h2>popular destination</h2>
@@ -43,6 +47,7 @@
 								</div><!--/.single-footer-txt-->
 							</div><!--/.single-footer-item-->
 						</div><!--/.col-->
+
 						<div class="col-sm-3">
 							<div class="single-footer-item text-center">
 								<h2 class="text-left">contacts</h2>
@@ -54,7 +59,9 @@
 								</div><!--/.single-footer-txt-->
 							</div><!--/.single-footer-item-->
 						</div><!--/.col-->
+
 					</div><!--/.row-->
+
 				</div><!--/.footer-content-->
 				<hr>
 				<div class="foot-icons ">
@@ -66,36 +73,59 @@
 		                <li><a href="https://www.pinterest.com/pavanacamps/" target="_blank" class="foot-icon-bg-3"><i class="fa fa-pinterest"></i></a></li>
 		        	</ul>
 		        	<p>© 2018 <a href="https://www.brandmarktechnology.com">BrandMarkTechnology</a>. All Right Reserved</p>
+
 		        </div><!--/.foot-icons-->
 				<div id="scroll-Top">
 					<i class="fa fa-angle-double-up return-to-top" id="scroll-top" data-toggle="tooltip" data-placement="top" title="" data-original-title="Back to Top" aria-hidden="true" style="display: inline;"></i>
 				</div><!--/.scroll-Top-->
 			</div><!-- /.container-->
+
 		</footer><!-- /.footer-copyright-->
 		<!-- footer-copyright end -->
+
+
+
+
 		<script src="assets/js/jquery.js"></script>
 		<!-- Include all compiled plugins (below), or include individual files as needed -->
+
 		<!--modernizr.min.js-->
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
+
 		<!--bootstrap.min.js-->
 		<script src="assets/js/bootstrap.min.js"></script>
+
 		<!-- bootsnav js -->
 		<script src="assets/js/bootsnav.js"></script>
+
 		<!-- jquery.filterizr.min.js -->
 		<script src="assets/js/jquery.filterizr.min.js"></script>
+
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+
 		<!--jquery-ui.min.js-->
         <script src="assets/js/jquery-ui.min.js"></script>
+
         <!-- counter js -->
 		<script src="assets/js/jquery.counterup.min.js"></script>
 		<script src="assets/js/waypoints.min.js"></script>
+
 		<!--owl.carousel.js-->
         <script src="assets/js/owl.carousel.min.js"></script>
+
         <!-- jquery.sticky.js -->
 		<script src="assets/js/jquery.sticky.js"></script>
+
         <!--datepicker.js-->
         <script src="assets/js/datepicker.js"></script>
+
 		<!--Custom JS-->
 		<script src="assets/js/custom.js"></script>
+
+
+	
+
 </div></body>
+
 </html>
